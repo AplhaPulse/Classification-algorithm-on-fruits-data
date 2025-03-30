@@ -1,4 +1,4 @@
-# Classification Algorithm Implementations
+# Fruits Classification Algorithm Implementations
 
 This repository provides Python implementations of various classification algorithms for machine learning tasks.
 
